@@ -13,3 +13,5 @@ W plikach _README.md_ należy wpisać:
 |Wersja Ruby|Wersja Rails|Baza danych|
 |---|---|---|
 |2.3.0p0|4.2.5|SQLite|
+
+Aplikacja pozwala na przypinanie wlasnych obrazkó z opisami, nie zalogowany użytkownik może tylko ogladać już wstawione obrazki.
