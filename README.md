@@ -2,7 +2,7 @@
 
 1. Zaliczenie:
  - [ ] [nazwa aplikacji](zaliczenie)
- - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://asi-project-dawid93.c9users.io/)
+ - [ ] [Aplikacja na C9](https://asi-project-dawid93.c9users.io/)
 
 W plikach _README.md_ należy wpisać:
 
