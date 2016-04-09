@@ -2,7 +2,7 @@
 
 1. Zaliczenie:
  - [ ] [nazwa aplikacji](zaliczenie)
- - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/https://boiling-hamlet-62224.herokuapp.com/)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
