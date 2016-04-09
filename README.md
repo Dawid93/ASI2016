@@ -1,24 +1,19 @@
+### Nazwa Zespołu – Dawid Darznik
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+1. Zaliczenie:
+ - [ ] [nazwa aplikacji](zaliczenie)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+1. Egzamin:
+ - [ ] [nazwa aplikacji](egzamin)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
 
+W plikach _README.md_ należy wpisać:
 
-Welcome to your Rails project on Cloud9 IDE!
+* wersję języka Ruby (jakakolwiek wersja ~> 2.2)
+* jakiej użyto wersji Rails (tylko wersje ~> 4.2 lub ~> 5.0)
+* jakiej użyto bazy danych
 
-To get started, just do the following:
+Dane te należy przedstawić w formie tabelki.
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://asi-project-dawid93.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Dodatkowo należy napisać (wystarczy jeden akapit)
+jaki problem rozwiązuje aplikacja.
